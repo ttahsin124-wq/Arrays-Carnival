@@ -46,14 +46,14 @@ This repository contains my solutions to various **Array** problems on [LeetCode
 
 ## 📁 Repository Structure
 leetcode-array-solutions/
-├── 4-median-of-two-sorted-arrays.cpp
-├── 14-longest-common-prefix.cpp
-├── 26-remove-duplicates-from-sorted-array.cpp
-├── 27-remove-element.cpp
-├── 35-search-insert-position.cpp
-├── 66-plus-one.cpp
-├── LICENSE
-└── README.md
+│── 0004-median-of-two-sorted-arrays.cpp
+│── 0014-longest-common-prefix.cpp
+│── 0026-remove-duplicates-from-sorted-array.cpp
+│── 0027-remove-element.cpp
+│── 0035-search-insert-position.cpp
+│── 0066-plus-one.cpp
+├── README.md
+└── LICENSE
 ---
 Each solution file is named after the problem for easy identification.  
 *(If you prefer to organise them inside a `src/` folder, simply update the links above.)*
@@ -73,7 +73,9 @@ Open the file corresponding to the problem you’re interested in (e.g remove-du
    *A clear approach 
    *Time and Space Complexity
    *C++ solution itself 
+   
 ---
+
 **🤝 Contributing**
 While this is a personal practice repository, suggestions are welcome!
 If you spot a bug or have a better approach, feel free to:
@@ -82,10 +84,14 @@ Fork the repository.
 2.Commit your changes (git commit -m 'Improve solution for #26').
 3.Push and open a Pull Request.
 4.Please ensure your code follows the same style and includes comments.
+
 ---
+
 **📜 License**
 This project is licensed under the MIT License – see the LICENSE file for details.
+
 ---
+
 **⭐ If you find this helpful, please give it a star! ⭐**
 **Happy Coding! 🚀**
 
