@@ -45,15 +45,18 @@ This repository contains my solutions to various **Array** problems on [LeetCode
 ---
 
 ## 📁 Repository Structure
-leetcode-array-solutions/
-│── 0004-median-of-two-sorted-arrays.cpp
-│── 0014-longest-common-prefix.cpp
-│── 0026-remove-duplicates-from-sorted-array.cpp
-│── 0027-remove-element.cpp
-│── 0035-search-insert-position.cpp
-│── 0066-plus-one.cpp
+
+```
+Arrays-Carnival/
+├── 0004-median-of-two-sorted-arrays.cpp
+├── 0014-longest-common-prefix.cpp
+├── 0026-remove-duplicates-from-sorted-array.cpp
+├── 0027-remove-element.cpp
+├── 0035-search-insert-position.cpp
+├── 0066-plus-one.cpp
 ├── README.md
 └── LICENSE
+```
 ---
 Each solution file is named after the problem for easy identification.  
 *(If you prefer to organise them inside a `src/` folder, simply update the links above.)*
