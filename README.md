@@ -59,7 +59,6 @@ Arrays-Carnival/
 ```
 ---
 Each solution file is named after the problem for easy identification.  
-*(If you prefer to organise them inside a `src/` folder, simply update the links above.)*
 
 ---
 
