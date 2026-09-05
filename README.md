@@ -73,6 +73,7 @@ Open the file corresponding to the problem you’re interested in (e.g remove-du
    *A clear approach 
    *Time and Space Complexity
    *C++ solution itself 
+---
 **🤝 Contributing**
 While this is a personal practice repository, suggestions are welcome!
 If you spot a bug or have a better approach, feel free to:
@@ -81,8 +82,10 @@ Fork the repository.
 2.Commit your changes (git commit -m 'Improve solution for #26').
 3.Push and open a Pull Request.
 4.Please ensure your code follows the same style and includes comments.
+---
 **📜 License**
 This project is licensed under the MIT License – see the LICENSE file for details.
+---
 **⭐ If you find this helpful, please give it a star! ⭐**
 **Happy Coding! 🚀**
 
