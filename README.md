@@ -1,8 +1,8 @@
 # 🧩 LeetCode Array Solutions
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/ttahsin124-wq/leetcode-Arrays-Carnival)](https://github.com/ttahsin124-wq/Arrays-Carnival)
+[![GitHub last commit](https://img.shields.io/github/last-commit/ttahsin124-wq/Arrays-Carnival)](https://github.com/ttahsin124-wq/Arrays-Carnival)
 [![GitHub repo size](https://img.shields.io/github/repo-size/ttahsin124-wq/Arrays-Carnival)](https://github.com/ttahsin124-wq/Arrays-Carnival)
-[![Language](https://img.shields.io/badge/language-C++-blue)]([https://www.C++.com/](https://isocpp.org/)
+[![Language](https://img.shields.io/badge/language-C++-blue)](https://isocpp.org/)
 
 > A curated collection of my LeetCode solutions focusing on **Array** problems. Each solution is well-commented, optimized, and includes a brief explanation of the approach.
 
